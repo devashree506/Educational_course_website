@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+.background{
+	/*background-color: darkolivegreen;*/
+	background-image: url("BSimg/learningbg.png");
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: cover;
+	height:500px;
+}
+.nav_hl{
+	float:right;
+}
+.imagewidth{
+	width:100%;
+}
